@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Melo.
-- 👀 I’m interested in learning more about web development and Quality Assurance.
+- 👀 I’m interested in learning more about Quality Assurance.
 - 🌱 I’m currently learning HTML5, CSS, JavaScript e Java. ( Venturing into Python )
 - 📫 How to reach me - discord Gueds#3925 / e-mail: felipe.jcguedes@yahoo.com.br
 
