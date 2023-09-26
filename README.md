@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Melo.
 - 👀 I’m interested in learning more about Quality Assurance.
-- 🌱 I’m currently learning HTML5, CSS, JavaScript e Java. ( Venturing into Python )
-- 📫 How to reach me - discord Gueds#3925 / e-mail: felipe.jcguedes@yahoo.com.br
+- 🌱 I’m learning HTML5, CSS, JavaScript e Java. Jmeter, Selenium, Junit and more for QA. ( Venturing into Python )
+- 📫 How to reach me - discord Gueds#3925 /   e-mail: felipe.jcguedes@yahoo.com.br
 
 <a href = "https://www.linkedin.com/in/felipegmelo/">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" Width="50" />          
