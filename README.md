@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Felipe Melo.
-- ✔✔ I’m Quality Assurance Jr.
-- 🌱 I’m learning HTML5, CSS, JavaScript e Java. Jmeter, Selenium, Junit, Cypress, K6 and more for QA.
+- ✔✔ I’m Quality Assurance Pleno.
+- ✨ Here I have some public HTML5, CSS, JavaScript, Java and TypeScript projects. Jmeter, Selenium, Junit, Cypress, Playwright, K6 and more for QA.
 - 📫 How to reach me - discord Gueds#3925 /   e-mail: felipe.jcguedes@gmail.com
 
 <a href = "https://www.linkedin.com/in/felipegmelo/">  
